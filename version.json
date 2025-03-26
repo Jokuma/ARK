@@ -1,6 +1,7 @@
 {
-  "version": "v0.0.2-beta",
-  "ARK.exe": "ed221338c4978b492717d22617697176072d07cef03167f869eeac1fc9bd94fb",
+  "version": "v0.0.2",
+  "files": {
+     "ARK.exe": "ed221338c4978b492717d22617697176072d07cef03167f869eeac1fc9bd94fb",
   "README.md": "b371bf25ddc7ce66c711f3a725ed93927613338a0d50fabae52e0304d5872f78",
   "UnityCrashHandler64.exe": "46e6f1c5f4d2b5d66252b39be03aebde6a195b026ecd168de59fe9b5ecdf46c8",
   "UnityPlayer.dll": "e23efe13df85d52d3ab38e28a6421c0b60d6a4fa9338497524eff97e4a489498",
@@ -420,4 +421,6 @@
   "MonoBleedingEdge\\etc\\mono\\2.0\\Browsers\\Compat.browser": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741",
   "MonoBleedingEdge\\etc\\mono\\4.0\\Browsers\\Compat.browser": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741",
   "MonoBleedingEdge\\etc\\mono\\4.5\\Browsers\\Compat.browser": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+  }
+ 
 }
