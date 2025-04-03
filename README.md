@@ -7,7 +7,7 @@
 # Current Status: Working
 # TL:DR (for releases)
 
-### =v0.0.2-beta:
+### =v0.0.2:
 ##### =Upadter/patcher is working
 
 
