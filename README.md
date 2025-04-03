@@ -13,10 +13,6 @@
 
 # +++++++++++++++++++++++++++++++++++++++++
 
-# NOTES FOR FUTURE
-#### =add UI/UX for patcher
-##### =include buttons (play) and progress bar(updating/downloading) and probably uninstall button
-
 #### =Problems for the future:
 ##### =currently files larger than 100mb cant be pushed to github
 
